@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class App 
 {
-    	private static final int SERVER_PORT = 10006;
+    	private static final int SERVER_PORT = 8080;
 	 
 	public static void main(String args[]) {
 		ServerSocket serverSocket = null;
